@@ -1,11 +1,11 @@
-# Proposal for Semester Project
+# Proposal for DataChallenge
 
 **Patterns & Trends in Environmental Data / Computational Movement
 Analysis Geo 880**
 
 | Semester:      | FS22                              |
 |----------------|---------------------------------- |
-| **Data:**      | Wild Boar Movement Data           |
+| **Data:**      | Roe Deer Movement Data            |
 | **Title:**     | The title of your project         |
 | **Student 1:** | Name of Student 1                 |
 | **Student 2:** | Name of Student 2                 |

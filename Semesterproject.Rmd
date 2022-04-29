@@ -1,5 +1,5 @@
 ---
-title: The title of your Semesterproject
+title: The title of your DataChallenge
 subtitle: A subtle subtitle
 author: Firstname1 Lastname1 and Firstname2 Lastname2
 output: html_document
@@ -37,12 +37,8 @@ Society philosophy merciful selfish sexuality depths overcome madness. Morality 
 Against holiest pinnacle mountains merciful ideal society play disgust will ubermensch ultimate pinnacle victorious. Snare value law gains battle pious intentions revaluation strong. Insofar snare faith ideal oneself.
 
 ```{r}
-library(ComputationalMovementAnalysisData)
 library(ggplot2)
 
-# Include tables with the function "kable"
-
-knitr::kable(head(wildschwein_BE))
 ```
 
 <!-- the following is just a placeholder text, remove it!-->
@@ -51,9 +47,8 @@ Revaluation evil aversion ultimate decrepit disgust decrepit eternal-return nobl
 ```{r}
 # include plots automatically
 
-ggplot(schreck_locations, aes(E, N)) +
-  geom_point() +
-  coord_map()
+ggplot(mtcars, aes(mpg, cyl)) +
+  geom_point()
 
 ```
 
