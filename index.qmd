@@ -2,8 +2,7 @@
 title: The title of your DataChallenge
 subtitle: A subtle subtitle
 author: Firstname1 Lastname1 and Firstname2 Lastname2
-output: html_document
-
+output: html
 ---
 
 
